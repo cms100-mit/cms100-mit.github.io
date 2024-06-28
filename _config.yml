@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: CMS.100
+tagline: Introduction to Media Studies
+description: Course website for Introduction to Media Studies at MIT
+author: Crystal Lee 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,10 +26,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Canvas:
+    - 'https://canvas.mit.edu'
+  Feedback form:
+    - 'https://forms.gle/DfrDJtgZsiD6C3r18'
 footer_content:
 
 # Collections for website data
@@ -77,3 +75,58 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+callouts:
+  fp:
+    color: green
+  tip:
+    title: Tip
+    color: green
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: blue
+  files:
+    title: File(s) edited in this section
+    color: purple
+  fyi:
+    title: FYI
+    color: blue
+  important:
+    title: Important
+    color: yellow
+  tbd:
+    title: Coming soon
+    color: red
+  caveat:
+    title: Caveat
+    color: red
+  further:
+    title: Going further
+    color: green
+  lecture:
+    title: Lecture
+    color: green
+  lab:
+    title: Lab
+    color: yellow
+  reading:
+    title: Reading Group
+    color: blue
+  break:
+    title: Spring Break
+    color: grey-dk
+  exhibition:
+    title: Exhibition
+    color: red
+  summary:
+    title: Summary
+    color: grey-dk
+  released:
+    title: Assignment Released
+    color: green
+  due:
+    title: Assignment Due
+    color: red
