@@ -3,7 +3,7 @@ title: Introduction
 ---
 
 Sep 28
-: **#**[Class expectations](#)**
+: **[Class expectations](#)**
 
 Sep 29
 : [Theories of media](#)
