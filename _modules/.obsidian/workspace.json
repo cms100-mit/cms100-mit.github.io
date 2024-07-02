@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "8ff8e5176d378db9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "a5a7fc4fb65cce3e",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60e740e8696489ea",
+  "active": "8ff8e5176d378db9",
   "lastOpenFiles": [
     "04-research-writing.md",
     "03-political-economy.md",
