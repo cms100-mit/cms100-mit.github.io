@@ -15,3 +15,5 @@ These class policies, readings, and exercises rely heavily on resources from Bla
 
 The class draws heavily on materials and examples found online, and I try my best to give credit by linking to the original source. 
 Please contact me (crystall `at` mit `dot` edu) if you find materials where credit is missing or that you would rather have removed.
+
+If you have read this far, congratulations! You’ve found the easter egg. The first three students to email me the phrase “I’ve found the easter egg” will each receive one bonus point for their grade.

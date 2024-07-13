@@ -19,7 +19,7 @@ Oct 21
 : **The creator economy** 
 - **Assignment 2 due**{: .label .label-red } 
 - **A3, 4a assigned**{: .label .label-green } 
-- [Hank Green On The Problem With Being A Creator](https://www.youtube.com/watch?v=bMzpGNr-EX8) The Financial Diet (7 min, 2023).
+<!-- - [Hank Green On The Problem With Being A Creator](https://www.youtube.com/watch?v=bMzpGNr-EX8) The Financial Diet (7 min, 2023). -->
 - Fortesa Latifi, “[What’s the Price of a Childhood Turned into Content?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/)” Cosmopolitan (2024). 
 - Christin and Lu, “[The influencer pay gap: Platform labor meets racial capitalism](https://www.angelechristin.com/wp-content/uploads/2023/05/The-Influencer-Pay-Gap_New-Media-Society.pdf)” New Media and Society (2023: 23 pp). *
 - Optional but really interesting video essays: 
@@ -37,5 +37,5 @@ Oct 28
 
 Oct 30 
 : **The hustle economy, part 2 (gig work)**
-- Tressie McMillam Cottom, “[The Hustle Economy](https://web.archive.org/web/20240207195859/https://www.dissentmagazine.org/article/the-hustle-economy/),” Dissent Magazine (2020) 
+<!-- - Tressie McMillam Cottom, “[The Hustle Economy](https://web.archive.org/web/20240207195859/https://www.dissentmagazine.org/article/the-hustle-economy/),” Dissent Magazine (2020)  -->
 - Rosenblat and Stark, “[Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers](https://ijoc.org/index.php/ijoc/article/view/4892/1739)” (2016, 20 pp) *

@@ -9,9 +9,9 @@ Oct 5
 Sep 16 
 : **Seeing images**
 - Catherine D’Ignazio and Lauren Klein, “[On rational, scientific, objective viewpoints from mythical, imaginary, impossible standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)” in Data Feminism (~30 pp with pictures, 2020) *
-- Taylor Ramos and Tony Zhou, [How Does an Editor Think and Feel?](https://www.youtube.com/watch?v=3Q3eITC01Fg&t=84s), Every Frame A Painting (9 min, 2016) 
+<!-- - Taylor Ramos and Tony Zhou, [How Does an Editor Think and Feel?](https://www.youtube.com/watch?v=3Q3eITC01Fg&t=84s), Every Frame A Painting (9 min, 2016)  -->
 
 Sep 18
-: **Preserving media** ([slides](https://docs.google.com/presentation/d/1S22oRc5YG_QzCG5v5RNBvYBPhaqYj3EK4r3g9o4vLWI/edit#slide=id.g2ba3346b58b_0_89))
+: **Preserving media** 
 - **Assignment 1 due**{: .label .label-red } 
 - Lowood et al, “[Before It’s Too Late: A Digital Game Preservation White Paper](https://files.eric.ed.gov/fulltext/EJ1069232.pdf)” (pp. 2 [start at “Losing Digital Game History”] – 19 [stop right before “Examples”] *
