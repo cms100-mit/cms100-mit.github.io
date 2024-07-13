@@ -1,39 +1,148 @@
----
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
----
+# Website for Interactive Visualization & Society (6/11.C35/85) class, Spring 2024
 
-# Just the Class
+## Website architecture
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+The website is built using [Jekyll] and the [Just the Docs] theme.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Most of the content uses Markdown (`.md`) files, which are converted to HTML by Jekyll.
+The deployed site lives in a `_site` directory, which is ignored by Git.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Local deployment
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+When making changes to the website, you always want to test them locally first — don’t be the person who pushes untested code to production!
+Here’s how.
 
-## Getting Started
+### Setup (first time only)
 
-Getting started with Just the Class is simple.
+1. [Install Jekyll](https://jekyllrb.com/docs/installation/).
+This will also walk you through installing all prerequisites (Bundler, Ruby 2.5+, chruby, etc.).
+2. `cd` to the root directory of the site (the same directory that contains this README).
+3.  Run `bundle install`.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+### Running the site locally
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Run `bundle exec jekyll serve --incremental` to build the site and preview it at `localhost:4000`.
+To use a different port use the `--port` flag, e.g. `bundle exec jekyll serve --incremental --port 8080`.
 
-### Local development environment
+This will automatically rebuild when you make changes.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+----
+
+<details>
+<summary>Original README</summary>
+
+# just-the-docs-template
+
+This is a *bare-minimum* template to create a [Jekyll] site that:
+
+- uses the [Just the Docs] theme;
+- can be built and published on [GitHub Pages];
+- can be built and previewed locally, and published on other platforms.
+
+More specifically, the created site:
+
+- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
+- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+
+To get started with creating a site, just click "[use this template]"!
+
+After completing the creation of your new site on GitHub, update it as needed:
+
+## Replace the content of the template pages
+
+Update the following files to your own content:
+
+- `index.md` (your new home page)
+- `README.md` (information for those who access your site repo on GitHub)
+
+## Changing the version of the theme and/or Jekyll
+
+Simply edit the relevant line(s) in the `Gemfile`.
+
+## Adding a plugin
+
+The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+
+To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+
+- Add the following to your site's `Gemfile`:
+
+  ```ruby
+  gem "jekyll-default-layout"
+  ```
+
+- And add the following to your site's `_config.yml`:
+
+  ```yaml
+  plugins:
+    - jekyll-default-layout
+  ```
+
+Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
+
+## Publishing your site on GitHub Pages
+
+1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+
+    ```yaml
+    title: YOUR TITLE
+    description: YOUR DESCRIPTION
+    theme: just-the-docs
+
+    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+
+    aux_links: # remove if you don't want this link to appear on your pages
+      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+    ```
+
+2.  Push your updated `_config.yml` to your site on GitHub.
+
+3.  In your newly created repo on GitHub:
+    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
+    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
+
+## Building and previewing your site locally
+
+Assuming [Jekyll] and [Bundler] are installed on your computer:
+
+1.  Change your working directory to the root directory of your site.
+
+2.  Run `bundle install`.
+
+3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
+
+    The built site is stored in the directory `_site`.
+
+## Publishing your built site on a different platform
+
+Just upload all the files in the directory `_site`.
+
+## Customization
+
+You're free to customize sites that you create with this template, however you like!
+
+[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+
+## Licensing and Attribution
+
+This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
+
+The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
+
+----
+
+[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
+[Jekyll]: https://jekyllrb.com
+[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[GitHub Pages]: https://docs.github.com/en/pages
+[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[Bundler]: https://bundler.io
+[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
+[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+[MIT License]: https://en.wikipedia.org/wiki/MIT_License
+[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
+[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+
+</details>
