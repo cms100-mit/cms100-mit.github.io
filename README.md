@@ -1,4 +1,4 @@
-# Website for Interactive Visualization & Society (6/11.C35/85) class, Spring 2024
+# Website for CMS.100 (Fall 2024) 
 
 ## Website architecture
 
