@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-political-economy.md",
+                "file": "01-what-is-media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-political-economy.md",
+                "file": "01-what-is-media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-political-economy.md"
+                "file": "01-what-is-media.md"
               }
             }
           }
@@ -206,13 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff8e5176d378db9",
+  "active": "94413a4d04f8541a",
   "lastOpenFiles": [
+    "00-introduction.md",
     "04-research-writing.md",
     "03-political-economy.md",
     "02-infrastructure.md",
     "01-what-is-media.md",
-    "00-introduction.md",
     "05-artificial-intelligence.md"
   ]
 }
