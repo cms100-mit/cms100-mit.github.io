@@ -6,25 +6,14 @@ title: Introduction
 
 Sep 4
 : **Class expectations** (no reading)
+- ‼️ Sign up for an [MIT Google account](https://ist.mit.edu/google/workspace) (required for viewing some of the documents) 
+- **In class**{: .label .label-blue } [Syllabus quiz](https://docs.google.com/document/d/10YztiU3s2nfdDLIYXpAdfq4Xb7rMskXwixJpGK0zM3o/edit#heading=h.wpxwj5xhma6n)
 
-Sep 29
+Sep 9
 : **Theories of media**
 - **A1 assigned**{: .label .label-green } 
 <!-- -   Mary Kearney, "[Introduction, or How to Cook An Artichoke](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315879970-1/introduction-cook-artichoke-mary-celeste-kearney)" (8 pp) -->
 -   Marshall McLuhan, The Medium is the Message ([selection](https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf), read only pp. 1--10, 1964). 
 - [Video explanation](https://www.youtube.com/watch?v=09ML9n5f1fE) (2 min) *
-
-<!-- : **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red } -->
+	- What is McLuhan's main argument? 
+	- Give a concrete example from your own experience that illustrates McLuhan's point. 
