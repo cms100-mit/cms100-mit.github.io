@@ -4,8 +4,8 @@ title: Introduction
 {: .important }
 **The syllabus is a living document and is liable to change!** (You will never get more reading than listed here; readings may be swapped for something of an equivalent length or less. There should be no more than ~30 pages of reading per class session, or around 1-1.5 hr reading.) Please always refer to this document (not paper copies) for the most up-to-date readings and guidelines. If you’re in a time crunch — it happens to the best of us — see if you can finish the absolutely essential readings marked with an asterisk (*) and take the time to step back from today’s conversation if you are not sufficiently informed.
 
-Sep 28
-: **Class expectations**
+Sep 4
+: **Class expectations** (no reading)
 
 Sep 29
 : **Theories of media**

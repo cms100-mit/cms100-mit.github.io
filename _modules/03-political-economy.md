@@ -2,11 +2,12 @@
 title: Section 3) Political economy of new media
 ---
 Oct 9 
-: **Indigenous People's Day – holiday (no class).** 
-
-Oct 14 
 : **Monetizing attention**
 - Tim Hwang on The Ezra Klein Podcast (2023), “[How the $500 billion attention industry really works](https://www.nytimes.com/2023/02/14/opinion/ezra-klein-podcast-tim-hwang.html),” (listen to the ~1 hr podcast or read the transcript) *
+- Tim Wu, "[Attention Brokers](https://www.law.nyu.edu/sites/default/files/upload_documents/Tim%20Wu%20-%20Attention%20Brokers.pdf)" (2016) 
+
+Oct 14 
+: **Indigenous People's Day – holiday (no class).** 
 
 Oct 16 
 : **Monetizing personal data**
@@ -19,23 +20,24 @@ Oct 21
 : **The creator economy** 
 - **Assignment 2 due**{: .label .label-red } 
 - **A3, 4a assigned**{: .label .label-green } 
-<!-- - [Hank Green On The Problem With Being A Creator](https://www.youtube.com/watch?v=bMzpGNr-EX8) The Financial Diet (7 min, 2023). -->
 - Fortesa Latifi, “[What’s the Price of a Childhood Turned into Content?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/)” Cosmopolitan (2024). 
 - Christin and Lu, “[The influencer pay gap: Platform labor meets racial capitalism](https://www.angelechristin.com/wp-content/uploads/2023/05/The-Influencer-Pay-Gap_New-Media-Society.pdf)” New Media and Society (2023: 23 pp). *
-- Optional but really interesting video essays: 
-	- [The Nearly Impossible Job of Managing MrBeast](https://www.youtube.com/watch?v=N5YW4JB07-8) (no CC) 
-	- ["link in bio" & affiliate culture / Internet Analysis](https://www.youtube.com/watch?v=feDnjF7KO6A&t=189s) (CC)
 
 Oct 23 
 : **Online communities**
 - Fiesler, Morrison, and Bruckman, “[An Archive of Their Own: A Case Study of Feminist HCI and Values in Design](https://dl-acm-org.libproxy.mit.edu/doi/abs/10.1145/2858036.2858409)” SIGCHI (2016, 11 pp). *
+- Raisa Bruner, "[How K-Pop Fans Actually Work as a Force for Political Activism in 2020](https://time.com/5866955/k-pop-political/)", *TIME Magazine* 
 
 Oct 28 
-: **The hustle economy, part 1 (piecework and machine learning)**
-- Andy Newman, “[I Found Work on an Amazon Website. I Made 97 Cents an Hour](https://www.nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html).” New York Times (2019) *
-- Irani and Silberman, “[Turkopticon: interrupting worker invisibility in Amazon Mechanical Turk](https://dl.acm.org/doi/10.1145/2470654.2470742)” SIGCHI (2013, 9 pp)
+: **Instructor attending conference (no class).** 
 
 Oct 30 
-: **The hustle economy, part 2 (gig work)**
-<!-- - Tressie McMillam Cottom, “[The Hustle Economy](https://web.archive.org/web/20240207195859/https://www.dissentmagazine.org/article/the-hustle-economy/),” Dissent Magazine (2020)  -->
-- Rosenblat and Stark, “[Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers](https://ijoc.org/index.php/ijoc/article/view/4892/1739)” (2016, 20 pp) *
+: **Piecework and machine learning**
+- Andy Newman, “[I Found Work on an Amazon Website. I Made 97 Cents an Hour](https://www.nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html).” New York Times (2019) *
+- Irani and Silberman, “[Turkopticon: interrupting worker invisibility in Amazon Mechanical Turk](https://dl.acm.org/doi/10.1145/2470654.2470742)” SIGCHI (2013, 9 pp) 
+
+Nov 4 
+: **Branding and the aesthetics of political campaigns** 
+- Hunter Schwarz, “[The new Trump-Vance logo looks familiar — and that’s exactly the point](https://www.fastcompany.com/91156842/trump-vance-logo).” Fast Company (2024) 
+- Ibid, “[What Harris and Trump’s branding choices reveal about the 2024 election](https://www.fastcompany.com/91165864/what-harris-and-trumps-branding-choices-reveal-about-the-2024-election)” Fast Company (2024)
+- Reason TV, [Every Political Ad Ever](https://www.youtube.com/watch?v=KmmFQeaY3YM) 

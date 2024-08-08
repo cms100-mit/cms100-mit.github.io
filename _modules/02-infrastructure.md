@@ -2,8 +2,8 @@
 title: Section 2) What is infrastructure?
 ---
 Sep 25
-: **What makes the internet possible?** ([slides](https://docs.google.com/presentation/d/1dH0XJi66wn5a4KMPAJt1HWWGsgvxUfHvcjZYo4E9U2k/edit#slide=id.g2b9a7386b2c_0_12))
-- Ethan Zuckerman, “[What is digital public infrastructure?](https://www.journalismliberty.org/publications/what-is-digital-public-infrastructure)” Center for Journalism and Liberty (2020). 
+: **What makes the internet possible?** 
+- Andrew Blum and Carey Baraka, "[Sea change](https://restofworld.org/2022/google-meta-underwater-cables/)," *Rest of World* (2022) 
 - Vox, [How Does the Internet Work? - Glad You Asked S1](https://www.youtube.com/watch?v=TNQsmPf24go) (2020)
 
 Sep 30
@@ -11,11 +11,11 @@ Sep 30
 - Steven Gonzalez Monserrate, “[The Cloud is Material](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/2),” MIT SERC Case Studies (2022) * 
 
 Oct 2
-: **How do you search and find new information?** ([slides](https://docs.google.com/presentation/d/1k8yTET9Y-IyPmH1ALxUqKT6OzwOUHirHDwRHJrz1Ubc/edit#slide=id.p))
+: **How do you search and find new information?** 
 - **Guest lecture**{: .label .label-purple } MIT Librarian
 - **A2 assigned**{: .label .label-green} 
 - Safiya Noble, “[The Power of Algorithms](https://safiyaunoble.com/wp-content/uploads/2020/09/Algorithms_Oppression_Introduction_Intro.pdf),” (2017, 14 pp) 
-- Rodrigo Ochigame, “[Informatics of the Oppressed](https://logicmag.io/care/informatics-of-the-oppressed/),” Logic Magazine (2020) *
+- Yair Rosenberg, “[How to Take Back Control of What You Read on the Internet](https://web.archive.org/web/20230307064131/https://www.theatlantic.com/ideas/archive/2023/03/social-media-algorithms-twitter-meta-rss-reader/673282/),” *The Atlantic* (2023)
 
 Oct 7
 : **How is the content moderated?** 

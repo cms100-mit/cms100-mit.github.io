@@ -1,17 +1,12 @@
 ---
 title: Section 5) Artificial intelligence and beyond
 ---
-Nov 18 
+Nov 20 
 : **Quantifying bias and fairness, part 1** ([slides](https://docs.google.com/presentation/d/1lueGlg1Gsmnap_XmQd09lI5KfGpBc5-GYluXQvkuR2E/edit#slide=id.g2ce61316247_0_102))
 - Ochigame, “[The Long History of Algorithmic Fairness](https://www.phenomenalworld.org/analysis/long-history-algorithmic-fairness/)” (2020) 
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) from ProPublica + [analysis on how they audited the COMPAS recidivism algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) *
 - **In class**{: .label .label-blue } [Can you make AI fairer than a judge? Play our courtroom algorithm game](https://www.technologyreview.com/2019/10/17/75285/ai-fairer-than-judge-criminal-risk-assessment-algorithm/)
 
-Nov 20 
-: **Quantifying bias and fairness, part 2** ([slides](https://docs.google.com/presentation/d/1TK1HC0yKPuRWgT4ikxps7rI8lVAOjDS77UyLItAI3Pw/edit#slide=id.p))
-- **Drop date**{: .label .label-yellow } Last day to cancel full-term subjects from registration! 
-- Shah and Bender, “[Situating Search](https://dl-acm-org.libproxy.mit.edu/doi/10.1145/3498366.3505816)” (CHIR ‘22, 10 pp) *
-- Wachter et al, “[Health care bias is dangerous. But so are ‘fairness’ algorithms](https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/).” Wired (2023)
 
 Nov 25 
 : **Large language models and automated text**
@@ -19,14 +14,10 @@ Nov 25
 - Bender et al, “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl-acm-org.libproxy.mit.edu/doi/10.1145/3442188.3445922)” (2021, 10 pp)
 
 Nov 27
-: **Artificial intelligence in the Global South**
-- Arun, “[AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)”
-- Png, “[At the Tensions of South and North: Critical Roles of Global South Stakeholders in AI Governance](https://facctconference.org/static/pdfs_2022/facct22-115.pdf).” Then pick one:
-	- The Beginnings of AI and Data Governance: Landscape in Sri Lanka 
-	- To What Extent Does Malaysia’s National Fourth Industrial Revolution Policy Address AI Security Risks?
-	- An Ill-advised Turn: AI Under India's e-Courts Proposal
-	- Chinese AI Governance in Transition: Past, Present, and Future of Chinese AI Regulation
-	- Myth of Data-Driven Authoritarianism in Asia
+: **Proliferation of AI generated content** 
+- Cory Doctorow, "[TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)," *WIRED* (2023)
+- 
+
 
 Dec 2 
 : **Research review week: giving and receiving feedback**
