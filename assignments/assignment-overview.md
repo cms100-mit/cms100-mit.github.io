@@ -26,5 +26,5 @@ Letter grades are awarded based on the number of points accumulated: A (90-100),
 **(4a): final project proposal (1 slide)**: Add a slide into the [shared deck]() with 3 short ideas (1–3 sentences per idea). Be prepared to speak for ~3 min. | 1 point | Before class on April 10; submit to [deck](). 
 **(4b): final paper rough draft**: In this paper, you will choose a media topic to systematically gather data about, code (categorize) that data in some way, visualize the data, and analyze your findings. | 3 points | Before class on May 1; submit to Canvas. 
 **(4c): final paper and presentation** | presentation = 4 points, paper = 20 points | Before class on May 8 (to provide time for feedback before the course ends); submit to Canvas. 
-**Bonus assignment**: writing center appointment, office hour appointment | 1 point each | By EOD May 13, 2024 (submit to form [here]())
+**Bonus assignment**: writing center appointment, office hour appointment | 1 point each | By EOD May 13, 2024 (submit to form [here](https://forms.gle/HD7Ce6Y894X1EzQv7))
 || 122 points | 
