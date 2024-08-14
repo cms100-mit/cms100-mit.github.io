@@ -18,7 +18,7 @@ Nov 11
 Nov 13
 : **Studying new media: final project proposals and discussion**
 - **Assignment 3 + 4a due**{: .label .label-red } 
-- Link to final project proposal deck
+- Link to final project proposal [deck](https://docs.google.com/presentation/d/1Bj-o7n-FFSSvJOwPSlliwFSyYSgkVTceT2M4Jb6qLjw/edit?usp=sharing)
 
 Nov 15
 : **Writing Lab (no reading)** 
