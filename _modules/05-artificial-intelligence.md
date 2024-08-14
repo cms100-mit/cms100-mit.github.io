@@ -38,7 +38,8 @@ Dec 4
 
 Dec 9 
 : **Final presentations, part 1**
-- **Assignment 4c due**{: .label .label-red } 
+- **Assignment 4c due**{: .label .label-red }
+- Submit to final presentation [deck](https://docs.google.com/presentation/d/1Bj-o7n-FFSSvJOwPSlliwFSyYSgkVTceT2M4Jb6qLjw/edit#slide=id.g2f1558fee79_0_0)
 
 Dec 11 
 : **Final presentations, part 2**
