@@ -16,7 +16,7 @@ Sep 16
 
 Sep 18
 : **News and newsrooms** 
-- **Guest lecture**{: .label .label-purple } Seth Mnookin
+- **Guest lecture**{: .label .label-purple }
 
 Sep 23
 : **Radio, TV, and the future of the internet** 
