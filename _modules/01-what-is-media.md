@@ -18,6 +18,8 @@ Sep 18
 : **News and newsrooms** 
 - **Guest lecture**{: .label .label-purple }
 - Felix M. Simon, "[Artificial Intelligence in the News](https://towcenter.columbia.edu/sites/default/files/content/Tow%20Report_Felix-Simon-AI-in-the-News.pdf)," Tow Center for Digital Journalism (pp. 3-31: executive summary, intro, chapters 1 and 2). *
+	- What are some ways that AI has changed the way that people access and consume news? 
+	- Can AI mitigate the spread of misinformation? 
 
 Sep 23
 : **Radio, TV, and the future of the internet** 
