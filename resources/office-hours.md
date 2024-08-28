@@ -7,7 +7,7 @@ nav_order: 0
 
 # Office hours
 
-My in-person, drop-in office hours are MW 11 am--noon in E18-437 (in other words, right after class). My Zoom office hours are by appointment. If you would like to talk with me alongside my dog, [Laika](https://pbs.twimg.com/media/FcE2aFpXgAATmUh?format=jpg&name=medium), her office hours will be announced on an ad hoc basis. (She is non-shedding but a tad rambunctious, so if dogs are not your thing, feel free to come during another time block.)
+My in-person, drop-in office hours are MW 1--2:30 pm in E18-437. My Zoom office hours are by appointment. If you would like to talk with me alongside my dog, [Laika](https://pbs.twimg.com/media/FcE2aFpXgAATmUh?format=jpg&name=medium), her office hours will be announced on an ad hoc basis. (She is non-shedding but a tad rambunctious, so if dogs are not your thing, feel free to come during another time block.)
 
 Here are some things that we can talk about during my office hours: 
 
