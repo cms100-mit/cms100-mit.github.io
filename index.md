@@ -24,4 +24,4 @@ Crystal Lee (crystall `at` mit `dot` edu)
 
 - Office location: E18-437
 - Office hours: MW 1-2:30 pm or by appointment
-- Book office hours [on this calendar](https://calendly.com/leecrystal)
+- Book office hours [on this calendar](https://zcal.co/crystaljjlee)
