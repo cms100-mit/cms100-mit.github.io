@@ -17,7 +17,7 @@ Sep 16
 Sep 18
 : **News and newsrooms** 
 - **Guest lecture**{: .label .label-purple }
-- Felix M. Simon, "[Artificial Intelligence in the News](https://towcenter.columbia.edu/sites/default/files/content/Tow%20Report_Felix-Simon-AI-in-the-News.pdf)," Tow Center for Digital Journalism (pp. 3-31: executive summary, intro, chapters 1 and 2). 
+- Felix M. Simon, "[Artificial Intelligence in the News](https://towcenter.columbia.edu/sites/default/files/content/Tow%20Report_Felix-Simon-AI-in-the-News.pdf)," Tow Center for Digital Journalism (pp. 3-31: executive summary, intro, chapters 1 and 2). *
 
 Sep 23
 : **Radio, TV, and the future of the internet** 
