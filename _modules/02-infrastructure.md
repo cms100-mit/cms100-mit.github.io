@@ -22,7 +22,8 @@ Oct 2
 - Safiya Noble, “[The Power of Algorithms](https://safiyaunoble.com/wp-content/uploads/2020/09/Algorithms_Oppression_Introduction_Intro.pdf),” (2017, 14 pp) 
 - Yair Rosenberg, “[How to Take Back Control of What You Read on the Internet](https://web.archive.org/web/20230307064131/https://www.theatlantic.com/ideas/archive/2023/03/social-media-algorithms-twitter-meta-rss-reader/673282/),” *The Atlantic* (2023)
 	- What is "the algorithm?"
-	- How does algorithmic ranking change the way that you search for information? 
+	- How does algorithmic ranking change the way that you search for information?
+ - **[Register to vote on MIT TurboVote](http://turbovote.mit.edu/)**: It takes five minutes or less to register, and you can use it to request an absentee ballot and/or subscribe to reminders about registration and voting deadlines and locations in relevant elections.
 
 Oct 7
 : **How is the content moderated?** 
