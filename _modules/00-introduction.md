@@ -6,7 +6,8 @@ title: Introduction
 
 Sep 4
 : **Class expectations** (no reading)
-- ‼️ Sign up for an [MIT Google account](https://ist.mit.edu/google/workspace) (required for viewing some of the documents) 
+- ‼️ Sign up for an [MIT Google account](https://ist.mit.edu/google/workspace) (required for viewing some of the documents)
+- ‼️ Sign up to take [collaborative notes](https://docs.google.com/document/d/1UaYLie0D6rfWtKR7x0E3LGEDIZ6U3Kq4WIwvzLKRgOA/edit#bookmark=id.mst2l1188y97) 
 
 Sep 9
 : **Theories of media**
