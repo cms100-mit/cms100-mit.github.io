@@ -3,7 +3,7 @@ title: Section 1) What is media?
 ---
 
 Sep 11
-: **Books and print culture**
+: **Books and print culture** ([slides](https://drive.google.com/file/d/14pjn3lFmo5cXpMr3JTsQPnwneAXLR1oq/view?usp=drive_link))
 - Ann Blair, "[Introduction](https://www.jstor.org/stable/j.ctt1nptsm.6?seq=1)" and "[Epilogue](https://www.jstor.org/stable/j.ctt1nptsm.12?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Aeed771aae425086653f5458046c67086&seq=4)" in _Too Much to Know_ (14 pp, 2010) *
 	- How did people in early modern Europe collect and search for information? 
 	- What is the history of "information overload?" 
