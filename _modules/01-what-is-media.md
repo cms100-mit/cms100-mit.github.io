@@ -9,7 +9,7 @@ Sep 11
 	- What is the history of "information overload?" 
 
 Sep 16 
-: **Images and visualization**
+: **Images and visualization** ([slides](https://drive.google.com/file/d/1W-ZdCBC2Q4RLsiCSTGqF7NjL_L0lQcrn/view?usp=drive_link)) 
 - Catherine D’Ignazio and Lauren Klein, “[On rational, scientific, objective viewpoints from mythical, imaginary, impossible standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)” in Data Feminism (~30 pp with pictures, 2020) *
 	- What is the "view from nowhere" or the "god-trick?" 
 	- Is objectivity possible?
