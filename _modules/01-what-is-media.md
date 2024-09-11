@@ -13,6 +13,7 @@ Sep 16
 - Catherine D’Ignazio and Lauren Klein, “[On rational, scientific, objective viewpoints from mythical, imaginary, impossible standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)” in Data Feminism (~30 pp with pictures, 2020) *
 	- What is the "view from nowhere" or the "god-trick?" 
 	- Is objectivity possible?
+- **In class**{: .label .label-blue } [RAWGraphs](https://app.rawgraphs.io/) and Google Slide [deck](https://docs.google.com/presentation/d/1K8h8RJph6JshUAOgxMA6lBGTtJVocL4LI3jiPPT-9X4/edit?usp=sharing)
 
 Sep 18
 : **News and newsrooms** 
