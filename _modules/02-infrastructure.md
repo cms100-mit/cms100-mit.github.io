@@ -2,7 +2,7 @@
 title: Section 2) What is infrastructure?
 ---
 Sep 25
-: **What makes the internet possible?** 
+: **What makes the internet possible?** ([slides](https://docs.google.com/presentation/d/1KL4OEEhJT1JpqHR77S3S5Vr52662dgqyW_LEhWmWW-o/edit?usp=sharing))
 - **A2 assigned**{: .label .label-green }
 - Andrew Blum and Carey Baraka, "[Sea change](https://restofworld.org/2022/google-meta-underwater-cables/)," *Rest of World* (2022) 
 - Vox, [How Does the Internet Work? - Glad You Asked S1](https://www.youtube.com/watch?v=TNQsmPf24go) (2020)
