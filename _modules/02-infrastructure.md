@@ -8,7 +8,8 @@ Sep 25
 - Vox, [How Does the Internet Work? - Glad You Asked S1](https://www.youtube.com/watch?v=TNQsmPf24go) (2020)
 	- Think back to Zuckerman and his arguments about infrastructure. What are the infrastructural components that make the internet possible? 
 	- Who is (or should be) responsible for maintaining this infrastructure? 
-	- What are the consequences of those decisions? 
+	- What are the consequences of those decisions?
+ - **In class**{: .albel .label-blue } [Surfacing.in](http://www.surfacing.in/?place=centralcalifornia)
 
 Sep 30
 : **What is the cloud?**
