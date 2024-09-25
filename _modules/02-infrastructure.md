@@ -28,7 +28,7 @@ Oct 2
 
 Oct 7
 : **How is the content moderated?** 
-- Sarah T. Roberts, “[Meet the people who scar themselves to clean up our social media networks](https://macleans.ca/opinion/meet-the-people-who-scar-themselves-to-clean-up-our-social-media-networks/),” Maclean’s (2018) 
+- Karen Hao and Deepa Seetharaman, "[Cleaning up Chat-GPT takes a heavy toll on human workers](https://www.wsj.com/articles/chatgpt-openai-content-abusive-sexually-explicit-harassment-kenya-workers-on-human-workers-cf191483)," Wall Street Journal (2023) 
 - Nate Matias, “[The civic labor of volunteer moderators online](https://journals.sagepub.com/doi/10.1177/2056305119836778),” Social Media + Society (2019, 11 pp) *
 	- Who or what makes the internet "usable?" How? 
 	- Should the labor of moderation be compensated? In what ways? 
