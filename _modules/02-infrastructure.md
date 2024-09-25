@@ -19,7 +19,7 @@ Sep 30
 
 Oct 2
 : **How do you search and find new information?** 
-- **Guest lecture**{: .label .label-purple }
+- **Guest lecture**{: .label .label-purple } Phoebe Ayers
 - Safiya Noble, “[The Power of Algorithms](https://safiyaunoble.com/wp-content/uploads/2020/09/Algorithms_Oppression_Introduction_Intro.pdf),” (2017, 14 pp) 
 - Yair Rosenberg, “[How to Take Back Control of What You Read on the Internet](https://web.archive.org/web/20230307064131/https://www.theatlantic.com/ideas/archive/2023/03/social-media-algorithms-twitter-meta-rss-reader/673282/),” *The Atlantic* (2023)
 	- What is "the algorithm?"
