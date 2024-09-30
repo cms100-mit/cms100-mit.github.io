@@ -12,7 +12,7 @@ Sep 25
  - **In class**{: .label .label-blue } [Surfacing.in](http://www.surfacing.in/?place=centralcalifornia)
 
 Sep 30
-: **What is the cloud?**
+: **What is the cloud?** ([slides](https://docs.google.com/presentation/d/13afi--hlPvpyZMloxBWP9_EWDiA84e3wfB8aerCWtEg/edit#slide=id.g2bbd60f5156_1_0)) 
 - Steven Gonzalez Monserrate, “[The Cloud is Material](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/2),” MIT SERC Case Studies (2022) * 
 	- What goes into the maintenance of data centers? 
 	- How does cloud computing (and therefore ML models) affect the environment? 
