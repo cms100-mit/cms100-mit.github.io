@@ -33,3 +33,4 @@ Oct 7
 	- Who or what makes the internet "usable?" How? 
 	- Should the labor of moderation be compensated? In what ways? 
 - **In class**{: .label .label-blue } [Moderator Mayhem](https://moderatormayhem.engine.is/)
+- **In class**{: .label .label-blue } [CMS.100 check-in survey](https://forms.gle/WuxfJzpw37aYFXjX9) 
