@@ -4,8 +4,9 @@ title: Section 3) Political economy of new media
 Oct 9 
 : **Monetizing attention**
 - Tim Hwang on The Ezra Klein Podcast (2023), “[How the $500 billion attention industry really works](https://www.nytimes.com/2023/02/14/opinion/ezra-klein-podcast-tim-hwang.html),” (listen to the ~1 hr podcast or read the transcript) *
-- Tim Wu, "[Attention Brokers](https://www.law.nyu.edu/sites/default/files/upload_documents/Tim%20Wu%20-%20Attention%20Brokers.pdf)" (2016) 
-	- What is the "attention economy" and how does it affect your day-to-day life? 
+- Nick Seaver, "[Captivating algorithms: recommender systems as traps](https://journals.sagepub.com/doi/epdf/10.1177/1359183518820366)" (2018)
+	- How many times were you distracted while doing the readings (and what were those distractions)? (You can do a small count sort of like A1, the media diary.) 
+  	- What is the "attention economy?" Are recommender systems really traps?
 	- If not ads and the sale of attention, what are some alternative ways of funding the internet? 
 
 Oct 14 
