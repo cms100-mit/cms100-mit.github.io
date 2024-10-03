@@ -27,7 +27,7 @@ Oct 2
  - 🗳️ **[Register to vote on MIT TurboVote](http://turbovote.mit.edu/)**: It takes five minutes or less to register, and you can use it to request an absentee ballot and/or subscribe to reminders about registration and voting deadlines and locations in relevant elections.
 
 Oct 7
-: **How is the content moderated?** 
+: **How is the content moderated?** ([slides](https://docs.google.com/presentation/d/1xjhM6ya_T1lQFEVLOAkphNncoeXKXpg4fdPzrCbT-JA/edit#slide=id.g3080510f3a7_0_106))
 - Karen Hao and Deepa Seetharaman, "[Cleaning up Chat-GPT takes a heavy toll on human workers](https://www.wsj.com/articles/chatgpt-openai-content-abusive-sexually-explicit-harassment-kenya-workers-on-human-workers-cf191483)," Wall Street Journal (2023) 
 - Nate Matias, “[The civic labor of volunteer moderators online](https://journals.sagepub.com/doi/10.1177/2056305119836778),” Social Media + Society (2019, 11 pp) *
 	- Who or what makes the internet "usable?" How? 
