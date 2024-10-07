@@ -2,7 +2,7 @@
 title: Section 3) Political economy of new media
 ---
 Oct 9 
-: **Monetizing attention**
+: **Monetizing attention** ([slides](https://docs.google.com/presentation/d/178mxFOya5bTs39nIShzTclg33JYlZ0EykfMCeAGKtZ4/edit#slide=id.g2bb5e3e4ad8_0_0))
 - Tim Hwang on The Ezra Klein Podcast (2023), “[How the $500 billion attention industry really works](https://www.nytimes.com/2023/02/14/opinion/ezra-klein-podcast-tim-hwang.html),” (listen to the ~1 hr podcast or read the transcript) *
 - Nick Seaver, "[Captivating algorithms: recommender systems as traps](https://journals.sagepub.com/doi/epdf/10.1177/1359183518820366)" (2018)
 	- How many times were you distracted while doing the readings (and what were those distractions)? (You can do a small count sort of like A1, the media diary.) 
