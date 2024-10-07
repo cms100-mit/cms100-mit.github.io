@@ -7,7 +7,8 @@ Oct 9
 - Nick Seaver, "[Captivating algorithms: recommender systems as traps](https://journals.sagepub.com/doi/epdf/10.1177/1359183518820366)" (2018)
 	- How many times were you distracted while doing the readings (and what were those distractions)? (You can do a small count sort of like A1, the media diary.) 
   	- What is the "attention economy?" Are recommender systems really traps?
-	- If not ads and the sale of attention, what are some alternative ways of funding the internet? 
+	- If not ads and the sale of attention, what are some alternative ways of funding the internet?
+ - **In class**{: .label .label-blue} [Terms and Conditions](https://www.termsandconditions.game/) 
 
 Oct 14 
 : **Indigenous People's Day – holiday (no class).** 
