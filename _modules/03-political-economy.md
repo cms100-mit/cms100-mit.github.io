@@ -14,7 +14,7 @@ Oct 14
 : **Indigenous People's Day – holiday (no class).** 
 
 Oct 16 
-: **Monetizing personal data**
+: **Monetizing personal data** ([slides](https://docs.google.com/presentation/d/1qgsnHWWmrGFyO124zxqrCydaC2rn_WVGqYJhNXy8vdM/edit#slide=id.g2bb5e3e4ad8_0_0))
 - **Assignment 2 due**{: .label .label-red } 
 - Janet Vertesi, “[Data Free Disney](https://www.publicbooks.org/data-free-disney/),” Public Books (2023) *
 - Caltrider, Rykov, and MacDonald, “[It’s official: Cars are the worst product category we have ever reviewed for privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/).” Privacy Not Included, Mozilla (2023). 
