@@ -24,7 +24,7 @@ Oct 16
 - **In class**{: .label .label-blue}  [Privacy Chicken](https://www.nytimes.com/interactive/2020/01/21/opinion/privacy-chicken-game.html) (CW: fatphobia)
 
 Oct 21
-: **The creator economy** 
+: **The creator economy** ([slides](https://docs.google.com/presentation/d/1Zss_GZLcvHIhp6Ehc49Hr3YA3Bqmkh0V2Zvjm777yuk/edit#slide=id.g30cf10f8429_3_7))
 - **A3 assigned**{: .label .label-green } 
 - Fortesa Latifi, “[What’s the Price of a Childhood Turned into Content?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/)” Cosmopolitan (2024). 
 - Christin and Lu, “[The influencer pay gap: Platform labor meets racial capitalism](https://www.angelechristin.com/wp-content/uploads/2023/05/The-Influencer-Pay-Gap_New-Media-Society.pdf)” New Media and Society (2023: 23 pp). *
