@@ -32,7 +32,7 @@ Oct 21
 	- How does the creator economy work? 
 
 Oct 23 
-: **Online communities**
+: **Online communities** ([slides](https://docs.google.com/presentation/d/19gLAa1-WXuimwFFK2FwLTD0_9Q5nT7u-W_lq-xyjgjE/edit#slide=id.g30dd3ab7d77_0_63))
 - **A4 assigned**{: .label .label-green} 
 - Fiesler, Morrison, and Bruckman, “[An Archive of Their Own: A Case Study of Feminist HCI and Values in Design](https://dl-acm-org.libproxy.mit.edu/doi/abs/10.1145/2858036.2858409)” SIGCHI (2016, 11 pp). *
 - Raisa Bruner, "[How K-Pop Fans Actually Work as a Force for Political Activism in 2020](https://time.com/5866955/k-pop-political/)", *TIME Magazine* 
