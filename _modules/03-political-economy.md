@@ -40,11 +40,12 @@ Oct 23
 	- What are some fandoms that you know of or personally participate in and how do they affect the broader political landscape? 
 
 Oct 28 
-: **Piecework and machine learning**
+: **Piecework and machine learning** ([slides](https://docs.google.com/presentation/d/1sX9Ir6RTsv9dsTA8BAQO07XHaATIWSYlwKZ0A5ARU_Y/edit#slide=id.g2c73cff60fb_0_14))
 - Andy Newman, “[I Found Work on an Amazon Website. I Made 97 Cents an Hour](https://www.nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html).” New York Times (2019) *
 - Irani and Silberman, “[Turkopticon: interrupting worker invisibility in Amazon Mechanical Turk](https://dl.acm.org/doi/10.1145/2470654.2470742)” SIGCHI (2013, 9 pp) 
 	- What does the "human in the loop" mean when it comes to the creation of machine learning models? 
 	- What are some actions that AMT workers can take in order to maintain a more fair compensation system?
+ - **In class**{: .label .label-blue} [Teachable Machine](https://teachablemachine.withgoogle.com/v1/)
 
 Oct 30 
 : **Instructor attending conference (no class).** 
