@@ -52,7 +52,6 @@ Oct 30
 
 Nov 4 
 : **Branding and the aesthetics of political campaigns** 
-- Hunter Schwarz, “[The new Trump-Vance logo looks familiar — and that’s exactly the point](https://www.fastcompany.com/91156842/trump-vance-logo).” Fast Company (2024) 
 - Reason TV, [Every Political Ad Ever](https://www.youtube.com/watch?v=KmmFQeaY3YM) 
 	- How do the aesthetics of each campaign contribute to their overall message? What is and isn't effective? 
 	- What's the message in the medium? 
