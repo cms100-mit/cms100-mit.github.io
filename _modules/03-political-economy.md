@@ -51,7 +51,8 @@ Oct 30
 : **Instructor attending conference (no class).** 
 
 Nov 4 
-: **Branding and the aesthetics of political campaigns** 
+: **Branding and the aesthetics of political campaigns** ([slides](https://docs.google.com/presentation/d/1wzRdGs2xQWU16h5I5rg2F8SUXHc0D9IWteVm1Txwz5w/edit#slide=id.g3114add18eb_0_13))
 - Reason TV, [Every Political Ad Ever](https://www.youtube.com/watch?v=KmmFQeaY3YM) 
 	- How do the aesthetics of each campaign contribute to their overall message? What is and isn't effective? 
-	- What's the message in the medium? 
+	- What's the message in the medium?
+ - **In class**{: .label .label-blue} [Politics of memes](https://docs.google.com/presentation/d/1N0BPw6nZV52FIjJdfIZAoJXqM14BeU4rkrIc8aCE9qY/edit?usp=sharing) 
