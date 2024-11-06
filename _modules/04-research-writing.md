@@ -11,7 +11,7 @@ Nov 6
 - Steven Gonzalez Monserrate, "The Cloud is Material" 
 - Safiya Noble, "The Power of Algorithms" 
 - Nate Matias, "The civic labor of volunteer moderators online"
-- **In class**{: .label .label-blue } [Ruha Benjamin](https://www.youtube.com/watch?v=QO3nY_u6hos)
+- **In class**{: .label .label-blue } [Ruha Benjamin](https://www.youtube.com/watch?v=QO3nY_u6hos), [TL Draw](https://www.tldraw.com/r/dF57JG83F4pGZ24swomB0?d=v532.-563.3512.1721.page) 
 
 Nov 11 
 : **Veterans Day – holiday (no class)**
