@@ -2,7 +2,7 @@
 title: Section 4) Research and writing lab
 ---
 Nov 6
-: **Studying new media: research methods discussion**
+: **Studying new media: research methods discussion** ([slides](https://docs.google.com/presentation/d/1kvL2l5hv2CUMh8w8y8Y-JJzKh8XVHe1pKceJT-QlYj8/edit#slide=id.g3114a47a5b1_0_114))
 - Review one of these past readings and be prepared to discuss the methods used in the paper! 
 - Ann Blair, _Too Much to Know_ 
 - D'Ignazio and Klein, _Data Feminism_ 
@@ -10,7 +10,8 @@ Nov 6
 - Blum and Baraka, "Sea change" 
 - Steven Gonzalez Monserrate, "The Cloud is Material" 
 - Safiya Noble, "The Power of Algorithms" 
-- Nate Matias, "The civic labor of volunteer moderators online" 
+- Nate Matias, "The civic labor of volunteer moderators online"
+- **In class**{: .label .label-blue } [Ruha Benjamin](https://www.youtube.com/watch?v=QO3nY_u6hos)
 
 Nov 11 
 : **Veterans Day – holiday (no class)**
