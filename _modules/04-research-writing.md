@@ -22,5 +22,5 @@ Nov 13
 - Link to final project proposal [deck](https://docs.google.com/presentation/d/1K6U8tAHG4w23jkQpWRQ_cPLyzyPnd4XEzJZci4bN-gs/edit?usp=sharing)
 
 Nov 15
-: **Writing Lab (no reading)** 
+: **Writing Lab (no reading)** ([slides](https://docs.google.com/presentation/d/14SdQMXfyj-I5wP1yzdf548Vr33scCF7DVUGYlEUFaCk/edit#slide=id.g315f690c889_1_182))
 - Come to class prepared to work on your project proposals and prep for initial writing / research stage 
