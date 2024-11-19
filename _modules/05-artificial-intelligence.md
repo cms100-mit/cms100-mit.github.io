@@ -2,7 +2,7 @@
 title: Section 5) Artificial intelligence and beyond
 ---
 Nov 20 
-: **Quantifying bias and fairness** 
+: **Quantifying bias and fairness** ([slides](https://docs.google.com/presentation/d/1rrclB1zQn_oIdqspMwE0qAS6aV5URUrs4yvLBaKNwGY/edit#slide=id.g3164ce0d813_0_19))
 - Ochigame, “[The Long History of Algorithmic Fairness](https://www.phenomenalworld.org/analysis/long-history-algorithmic-fairness/)” (2020) 
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) from ProPublica + [analysis on how they audited the COMPAS recidivism algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) *
 	- Is it possible to create a "fair" algorithm? 
