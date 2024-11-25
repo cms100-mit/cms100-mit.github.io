@@ -19,7 +19,6 @@ Nov 25
 Nov 27
 : **Proliferation of AI generated content** 
 - Cory Doctorow, "[TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)," *WIRED* (2023)
-- Donath and Schneier, "[It's the end of the web as we know it](https://web.archive.org/web/20240425011555/https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)," _The Atlantic_ (2024) 
 	- How do you use LLMs in your daily life? 
 	- What is the future of digital content given the advent of generative AI? 
 
