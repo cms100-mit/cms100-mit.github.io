@@ -17,10 +17,10 @@ Nov 25
 	- How do LLMs work and what are their limitations? 
 
 Nov 27
-: **Proliferation of AI generated content** 
-- Cory Doctorow, "[TikTok's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)," *WIRED* (2023)
-	- How do you use LLMs in your daily life? 
-	- What is the future of digital content given the advent of generative AI? 
+: **Rethinking tech regulation** 
+- Electronic Frontier Foundation, "[Have You Tried Turning It Off and On Again: Rethinking Tech Regulation and Creative Labor](https://www.eff.org/deeplinks/2023/01/have-you-tried-turning-it-and-again-rethinking-tech-regulation-and-creative-labor)" 
+	- How do you think tech regulation would meaningfully change the way that people use technology?
+ 	- What types of regulation would be more effective than others?	
 
 Dec 2 
 : **Research review week: giving and receiving feedback**
