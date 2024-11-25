@@ -11,7 +11,7 @@ Nov 20
 
 
 Nov 25 
-: **Large language models and automated text**
+: **Large language models and automated text** ([slides](https://docs.google.com/presentation/d/1hrwQXOzvqhw5RUaLY5dPy7wtiLCFDt1pGzvr06AYFQI/edit?usp=sharing))
 - Chiang, “[Chat GPT is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web),” New Yorker (2023) *
 - Bender et al, “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl-acm-org.libproxy.mit.edu/doi/10.1145/3442188.3445922)” (2021, 10 pp)
 	- How do LLMs work and what are their limitations? 
