@@ -23,7 +23,7 @@ Nov 27
  	- What types of regulation would be more effective than others?	
 
 Dec 2 
-: **Research review week: giving and receiving feedback**
+: **Research review week: giving and receiving feedback** ([slides](https://docs.google.com/presentation/d/1BUfkC6W1y4M2Uee-5tCrUWKka3rYcdbMJAzTkUUqaDg/edit#slide=id.p))
 - **Assignment 4B due**{: .label .label-red } 
 - George Mason University Writing Center, “[Tips For Responding to Someone Else’s Writing](https://writingcenter.gmu.edu/writing-resources/writing-as-process/providing-feedback-to-writers)” 
 
