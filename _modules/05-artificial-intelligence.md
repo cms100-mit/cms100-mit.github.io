@@ -29,7 +29,7 @@ Dec 2
 
 
 Dec 4 
-: **Practitioner perspectives**
+: **Practitioner perspectives** ([slides](https://docs.google.com/presentation/d/1qtjsXnAfYWSZdjCpq_xxxzi1KdvWlvgtb85_t_IVSxc/edit#slide=id.g2d27e2d6f99_0_1056))
 - Rakova et al., “[Where Responsible AI Meets Reality: Practitioner Perspectives on Enablers for Shifting Organizational Practices](https://doi.org/10.1145/3449081),” (2021, 19 pp) 
 	- How do you "implement" responsible AI? 
 	- What are the major barriers (or opportunities) to doing so? 
