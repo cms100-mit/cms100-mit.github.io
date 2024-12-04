@@ -26,6 +26,6 @@ Letter grades are awarded based on the number of points accumulated: A [90-100),
 **A4: Media analysis project (2500 words)** | | 
 **(4a): final project proposal (1 slide)**: Add a slide into the [shared deck](https://docs.google.com/presentation/d/1K6U8tAHG4w23jkQpWRQ_cPLyzyPnd4XEzJZci4bN-gs/edit?usp=sharing) with 3 short ideas (1–3 sentences per idea). Be prepared to speak for ~3 min. | 1 point | Before class on November 13; submit to [deck](https://docs.google.com/presentation/d/1K6U8tAHG4w23jkQpWRQ_cPLyzyPnd4XEzJZci4bN-gs/edit#slide=id.g2f0eb9869d1_0_0). 
 **(4b): final paper rough draft**: In this paper, you will choose a media topic to systematically gather data about, code (categorize) that data in some way, visualize the data, and analyze your findings. | 3 points | Before class on December 2; submit to Canvas. 
-**(4c): final paper and presentation** | presentation = 4 points, paper = 20 points | Before class on Dec 9 (to provide time for feedback before the course ends); submit to Canvas. 
+**(4c): final paper and presentation** | presentation = 4 points, paper = 20 points | Before class on Dec 9 (to provide time for feedback before the course ends); submit paper to Canvas. Submit slides to shared [deck](https://docs.google.com/presentation/d/1Bj-o7n-FFSSvJOwPSlliwFSyYSgkVTceT2M4Jb6qLjw/edit).  
 **Bonus assignment**: writing center appointment, office hour appointment | 1 point each | By EOD December 13 (submit to form [here](https://forms.gle/HD7Ce6Y894X1EzQv7))
 || 123 points | 
