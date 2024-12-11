@@ -3,14 +3,12 @@ layout: default
 title: "Assignment overview"
 parent: Assignments
 nav_order: 0
-# due: "Mon 2/12, 11:59 pm ET"
-# submit: https://vis-society-forum.csail.mit.edu/tag/a1
 released: true
 ---
 
 # Assignment overview
 
-Letter grades are awarded based on the number of points accumulated: A [90-110), B [80-90), C [70-80), D [60-70). If you earn 110 points or more, you'll get an A+. Because of regulations associated with the course’s CI-H designation, you must complete all of the assignments to pass the class. 
+Letter grades are awarded based on the number of points accumulated: A [90-100), B [80-90), C [70-80), D [60-70). If you earn 100 points or more, you'll get an A+. Because of regulations associated with the course’s CI-H designation, you must complete all of the assignments to pass the class. 
 
 [Here](/policies/#ai-writing-assistance) is my complete AI writing assistance policy. In short: you’re allowed to use it, provided that you submit the prompts and dialogues from your sessions (Chat-GPT has a function that allows you to provide a link to the entire chat history), as well as a 200-word reflection on your experience. Submit both as an appendix to your assignments. 
 
