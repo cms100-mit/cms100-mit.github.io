@@ -43,4 +43,4 @@ Dec 9
 
 Dec 11 
 : **Final presentations, part 2**
-- **In class**{: .label .label-blue } [Subject evaluations]([https://eduapps.mit.edu/subjeval/studenthome.htm](https://registrar.mit.edu/classes-grades-evaluations/subject-evaluation)) 
+- **In class**{: .label .label-blue } [Subject evaluations](https://registrar.mit.edu/classes-grades-evaluations/subject-evaluation) 
