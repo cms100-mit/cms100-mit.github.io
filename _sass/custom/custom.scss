@@ -1,0 +1,155 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'announcement';
+@import 'schedule';
+@import 'staffer';
+
+// ---------------------------------------------------------------------------
+// CMS.100 typography
+// ---------------------------------------------------------------------------
+
+h1, h2, h3, .site-title, #course-title {
+  font-family: $display-font-family;
+  letter-spacing: -0.01em;
+}
+
+h1, .text-alpha {
+  font-weight: 600;
+}
+
+.site-title.lh-tight {
+  font-weight: 600;
+}
+
+// A little more air around the reading column.
+.main-content {
+  h2 {
+    margin-top: 2rem;
+  }
+
+  h3 {
+    margin-top: 1.5rem;
+  }
+
+  p, li {
+    max-width: 70ch;
+  }
+
+  blockquote {
+    border-left: 3px solid $border-color;
+    margin-left: 0;
+    padding-left: 1rem;
+    color: $body-text-color;
+  }
+}
+
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+details {
+  @extend .mb-4;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+
+  width: 100%;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Key-dates tables
+// ---------------------------------------------------------------------------
+
+.main-content table {
+  th {
+    font-family: $display-font-family;
+    font-weight: 600;
+  }
+
+  // Cells hold long prose (see the assignments tables), so they must wrap
+  // rather than force the table into a horizontal scroll. Widths are left to
+  // the browser's automatic table layout: the tables on this site have
+  // differing column counts, so positional width rules would misfire.
+  td {
+    white-space: normal;
+  }
+}
+
+// A compact "at a glance" grid used on the home page.
+.at-a-glance {
+  display: grid;
+  gap: $sp-3;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  margin: $sp-5 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    background: $sidebar-color;
+    border: $border $border-color;
+    border-radius: $border-radius;
+    padding: $sp-3 $sp-4;
+    max-width: none;
+  }
+
+  .glance-label {
+    display: block;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $body-text-color;
+    margin-bottom: 0.15rem;
+  }
+
+  .glance-value {
+    display: block;
+    font-family: $display-font-family;
+    font-size: 1.15rem;
+    color: $body-heading-color;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// The calendar. Imported last: its rules deliberately override the generic
+// `.main-content` list and heading styles above.
+// ---------------------------------------------------------------------------
+
+@import 'module';

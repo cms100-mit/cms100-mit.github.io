@@ -1,0 +1,62 @@
+// ---------------------------------------------------------------------------
+// CMS.100 colour scheme — warm paper, ink, and a muted brick accent.
+// Only the variables that differ from Just the Docs' `light` scheme are set;
+// everything else is inherited.
+// ---------------------------------------------------------------------------
+
+$paper:        #fbf9f5;
+$paper-sunk:   #f4f0e8;
+$ink:          #1c1a17;
+$ink-soft:     #4a453d;
+$brick:        #9a3324;
+$brick-bright: #b8442f;
+$rule:         #e2dbcd;
+
+$body-background-color:    $paper;
+$sidebar-color:            $paper-sunk;
+$search-background-color:  #ffffff;
+$table-background-color:   #ffffff;
+$code-background-color:    $paper-sunk;
+
+$body-text-color:          $ink-soft;
+$body-heading-color:       $ink;
+$nav-child-link-color:     $ink-soft;
+$link-color:               $brick;
+$btn-primary-color:        $brick;
+$base-button-color:        #ffffff;
+
+$border-color:             $rule;
+
+$body-font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Neue", Arial, sans-serif;
+$mono-font-family: "SFMono-Regular", "Consolas", "Liberation Mono", Menlo, monospace;
+
+// The serif used for headings and for anything that should read as a title.
+$display-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+
+// A monospace with real small-caps energy, used for dates, week numbers, and
+// the small uppercase labels on the calendar.
+$accent-mono-font-family: "IBM Plex Mono", ui-monospace, "SFMono-Regular",
+  Menlo, monospace;
+
+// ---------------------------------------------------------------------------
+// Calendar accents. The two weekly meetings get a colour apiece so a week
+// reads as a pair at a glance; deadlines borrow the brick from the link
+// colour; holidays and other non-sessions drop back to a warm grey.
+// ---------------------------------------------------------------------------
+
+$cal-raised:     #ffffff;
+$cal-slate:      #6f675b;
+$cal-rule-soft:  #ebe4d6;
+$cal-first:      #2f5d50;
+$cal-first-wash: #e8efeb;
+$cal-second:     #2e4c7e;
+$cal-second-wash:#e7ecf4;
+$cal-flag:       $brick;
+$cal-flag-wash:  #f6e9e3;
+$cal-quiet:      #8a8578;
+
+$root-font-size:        17px;
+$body-line-height:      1.45;
+$content-line-height:   1.65;
+$body-heading-line-height: 1.2;

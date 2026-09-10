@@ -1,0 +1,29 @@
+{%- comment -%}
+  One week of the calendar.
+
+  A module title is "Week 2 · Information infrastructure": the part before the
+  separator becomes the rail label, the part after it the week's theme. Either
+  " · " or " / " separates them, and a title with neither is treated as a
+  theme with no week number.
+
+  The anchor id stays on the section and keeps the slug of the *whole* title,
+  so links minted against the old markup still resolve.
+{%- endcomment -%}
+{%- assign wk_title = page.title | replace: " / ", " · " -%}
+{%- assign wk_number = wk_title | split: " · " | first -%}
+{%- assign wk_theme = wk_title | remove_first: wk_number | remove_first: " · " | strip -%}
+{%- if wk_theme == "" -%}
+  {%- assign wk_theme = page.title -%}
+  {%- assign wk_number = "" -%}
+{%- endif -%}
+<section class="week" id="{{ page.title | slugify }}">
+  <div class="wk-id">
+    {%- if wk_number != "" %}<span class="n">{{ wk_number }}</span>{% endif %}
+    <h2 class="no_anchor">{{ wk_theme }}</h2>
+  </div>
+  <div class="wk-body">
+    <div class="module">
+      {{ content }}
+    </div>
+  </div>
+</section>

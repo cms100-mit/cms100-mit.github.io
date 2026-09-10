@@ -1,0 +1,33 @@
+// ---------------------------------------------------------------------------
+// Shared design tokens.
+//
+// Just the Docs imports this file BEFORE any color scheme, for every CSS
+// variant it builds (just-the-docs-default / -dark / -light). Anything used by
+// _sass/custom/*.scss must be defined here, otherwise the dark and light
+// variants fail to compile with "Undefined variable" — those variants never
+// load _sass/color_schemes/cms100.scss.
+//
+// The cms100 scheme is imported after this file and re-declares these same
+// values, so it stays the source of truth for the scheme the site actually
+// uses (color_scheme: cms100 in _config.yml). Keep the two in sync.
+// ---------------------------------------------------------------------------
+
+// Palette primitives referenced by the tokens below.
+$brick: #9a3324 !default;
+
+// Typography
+$display-font-family: "Source Serif 4", Georgia, "Times New Roman", serif !default;
+$accent-mono-font-family: "IBM Plex Mono", ui-monospace, "SFMono-Regular",
+  Menlo, monospace !default;
+
+// Calendar palette
+$cal-raised: #ffffff !default;
+$cal-slate: #6f675b !default;
+$cal-rule-soft: #ebe4d6 !default;
+$cal-first: #2f5d50 !default;
+$cal-first-wash: #e8efeb !default;
+$cal-second: #2e4c7e !default;
+$cal-second-wash: #e7ecf4 !default;
+$cal-flag: $brick !default;
+$cal-flag-wash: #f6e9e3 !default;
+$cal-quiet: #8a8578 !default;

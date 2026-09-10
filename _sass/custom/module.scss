@@ -1,0 +1,405 @@
+// ---------------------------------------------------------------------------
+// Calendar weeks
+//
+// Every file in `_modules/` renders through `_layouts/module.html` as one
+// `.week`: a narrow rail carrying the week number and theme, and a body
+// holding that week's session cards plus any registrar or holiday notices.
+//
+// The cards are built out of the markdown definition list, so writing a
+// session stays exactly what it was — the `<dt>` becomes a card's date header
+// and the `<dd>` its body:
+//
+//     Sep 16
+//     : **Books and print culture**
+//     - Ann Blair, "Introduction" in *Too Much to Know* (2010)
+//         - a question to think about
+//
+// Two conventions the styles rely on:
+//
+//   * A `<dd>` whose first thing is a grey label is a non-session — a holiday,
+//     a cancelled class. It gets the quiet treatment and is skipped by the
+//     session counter, so the numbering only ever counts real meetings:
+//
+//         Nov 11
+//         : **NO CLASS**{: .label .label-grey } Veterans Day, Institute holiday
+//
+//   * The first meeting of a week is inked green and the second blue, matching
+//     the Wednesday/Friday rhythm of the term.
+//
+// Cards sit side by side wherever there is room for them and stack when there
+// isn't. Both breakpoints are container queries on `.cal`, so the layout
+// responds to the width of the content column rather than to the window.
+// They deliberately share one container: `container-type` brings style
+// containment with it, which scopes counters, and a container on each week
+// would restart the session numbering every Monday.
+// ---------------------------------------------------------------------------
+
+%cal-eyebrow {
+  font-family: $accent-mono-font-family;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+// ---------------------------------------------------------------------------
+// The run of weeks
+// ---------------------------------------------------------------------------
+
+.cal {
+  container: cal / inline-size;
+  margin-top: $sp-6;
+}
+
+.week {
+  border-top: $border $border-color;
+  display: grid;
+  gap: 0 22px;
+  grid-template-columns: minmax(0, 1fr);
+  padding: 22px 0;
+
+  // The session counter starts on the first week rather than on `.cal`:
+  // `container-type` brings style containment with it, and a counter reset on
+  // the container itself is not visible to the subtree it contains. Counter
+  // scope runs to an element's following siblings, so this covers the term.
+  &:first-of-type {
+    counter-reset: session;
+  }
+
+  &:last-of-type {
+    border-bottom: $border $border-color;
+  }
+}
+
+.wk-id {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 10px;
+  margin-bottom: 12px;
+  min-width: 0;
+  overflow-wrap: break-word;
+
+  .n {
+    @extend %cal-eyebrow;
+
+    color: $cal-slate;
+    font-size: 0.7rem;
+    white-space: nowrap;
+  }
+}
+
+// Beats `.main-content h2`, which wants two rems of air above every heading.
+.main-content .wk-id h2 {
+  color: $body-heading-color;
+  font-family: $display-font-family;
+
+  // Sized to the rail: a long single word ("presentations") has to fit it.
+  // `!important` to match the theme, which sets every heading size that way.
+  font-size: 0.95rem !important;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 0;
+
+  // A flex item will not shrink past its longest word without this, and the
+  // theme would then run out of the rail and under the first card.
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+
+.wk-body {
+  min-width: 0;
+}
+
+.module {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0;
+  word-wrap: break-word;
+}
+
+// Once the column is wide enough, the week number and theme stack into a rail
+// down the left-hand side.
+@container cal (min-width: 620px) {
+  .week {
+    grid-template-columns: 116px minmax(0, 1fr);
+  }
+
+  .wk-id {
+    // Stacked, the cross axis is horizontal: stretching is what makes the
+    // theme wrap inside the rail instead of sizing to its longest line and
+    // running under the first card.
+    align-items: stretch;
+    flex-direction: column;
+
+    // A wrapping column flex container sizes each line to its content, which
+    // would let the theme grow past the rail; one line keeps it in its column.
+    flex-wrap: nowrap;
+    margin-bottom: 0;
+    padding-top: 3px;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Session cards
+// ---------------------------------------------------------------------------
+
+.module > dl {
+  border: 0;
+  display: block;
+  margin: 0;
+}
+
+.module > dl > dt,
+.module > dl > dd {
+  background: $cal-raised;
+  border: $border $cal-rule-soft;
+  border-left: 3px solid $border-color;
+
+  // Just the Docs pins every `dt` to column 1 and every `dd` to column 2 so
+  // definition lists read as a table. Cards need them to flow instead.
+  grid-column: auto;
+  grid-row: auto;
+
+  // Zeroed together: the theme's own `dd` margin would otherwise open a seam
+  // between a card's date header and its body.
+  margin: 0;
+  max-width: none;
+}
+
+// Stacked, one card under the next, until there is room to pair them up.
+.module > dl > dt:not(:first-of-type) {
+  margin-top: 12px;
+}
+
+.module > dl > dt {
+  border-bottom: 0;
+  color: $body-heading-color;
+  counter-increment: session;
+  font-family: $accent-mono-font-family;
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+  padding: 12px $sp-4 0;
+  text-align: left;
+  white-space: nowrap;
+
+  // The session number, counted across the whole term.
+  &::before {
+    color: $cal-slate;
+    content: counter(session, decimal-leading-zero);
+    margin-right: 9px;
+  }
+
+  &::after {
+    content: normal;
+  }
+}
+
+.module > dl > dd {
+  border-top: 0;
+  color: $body-text-color;
+  font-size: 0.94rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+  padding: 6px $sp-4 14px;
+
+  // The session title.
+  > strong:first-child:not(.label) {
+    color: $body-heading-color;
+    display: block;
+    font-family: $display-font-family;
+    font-size: 1.04rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 7px;
+  }
+}
+
+// One colour per meeting, so a week reads as a pair.
+.module > dl > dt:nth-of-type(1),
+.module > dl > dd:nth-of-type(1) {
+  border-left-color: $cal-first;
+}
+
+.module > dl > dt:nth-of-type(2),
+.module > dl > dd:nth-of-type(2) {
+  border-left-color: $cal-second;
+}
+
+// Holidays and cancelled classes: sunk, grey, and not counted as a session.
+.module > dl > dt:has(+ dd > .label-grey:first-child),
+.module > dl > dd:has(> .label-grey:first-child) {
+  background: $sidebar-color;
+  border-left-color: $cal-quiet;
+  color: $cal-quiet;
+}
+
+.module > dl > dt:has(+ dd > .label-grey:first-child) {
+  counter-increment: none;
+
+  &::before {
+    content: none;
+  }
+}
+
+// Side by side as soon as two cards fit; `grid-auto-flow: column` fills each
+// column top to bottom, which pairs every `<dt>` with the `<dd>` beneath it,
+// and the `1fr` bottom row keeps the cards in a week the same height.
+@container cal (min-width: 700px) {
+  .module > dl {
+    column-gap: 14px;
+    display: grid;
+    grid-auto-columns: minmax(0, 1fr);
+    grid-auto-flow: column;
+    grid-template-rows: auto 1fr;
+    row-gap: 0;
+
+    > dt:not(:first-of-type) {
+      margin-top: 0;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// What is inside a card
+// ---------------------------------------------------------------------------
+
+.module > dl > dd ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+
+  > li {
+    margin: 0 0 5px;
+    max-width: none;
+    padding-left: 15px;
+    position: relative;
+
+    &::before {
+      background: $cal-quiet;
+      content: "";
+      height: 4px;
+      left: 2px;
+      position: absolute;
+      top: 0.6em;
+      width: 4px;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // Questions hung under a reading.
+  ul {
+    margin-top: 4px;
+
+    > li {
+      color: $cal-slate;
+      font-size: 0.89rem;
+      line-height: 1.45;
+    }
+  }
+}
+
+// A line that opens with a label carries its own marker already.
+.module > dl > dd li:has(> .label:first-child) {
+  padding-left: 0;
+
+  &::before {
+    content: none;
+  }
+}
+
+// Labels become the small mono tags the rest of the calendar is set in.
+.module .label:not(g) {
+  @extend %cal-eyebrow;
+
+  border-radius: 2px;
+  font-size: 0.63rem !important;
+  margin-left: 0;
+  margin-right: 7px;
+  padding: 2px 7px;
+  vertical-align: 0.06em;
+}
+
+.module .label-red:not(g) {
+  background-color: $cal-flag-wash;
+  color: $cal-flag;
+}
+
+.module .label-green:not(g) {
+  background-color: $cal-first-wash;
+  color: $cal-first;
+}
+
+.module .label-blue:not(g) {
+  background-color: $cal-second-wash;
+  color: $cal-second;
+}
+
+.module .label-yellow:not(g),
+.module .label-purple:not(g),
+.module .label-grey:not(g) {
+  background-color: $sidebar-color;
+  color: $cal-quiet;
+}
+
+// ---------------------------------------------------------------------------
+// Notices that interrupt the term — registrar dates, holidays, announcements
+// ---------------------------------------------------------------------------
+
+.module > p[class] {
+  align-items: baseline;
+  background: $cal-flag-wash;
+  border: 0;
+  border-left: 3px solid $cal-flag;
+  border-radius: 0;
+  box-shadow: none;
+  color: $cal-flag;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: $accent-mono-font-family;
+  font-size: 0.76rem;
+  gap: 2px 12px;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  padding: 10px $sp-4;
+
+  &::before {
+    @extend %cal-eyebrow;
+
+    color: inherit;
+    flex: 0 0 auto;
+    font-size: 0.66rem;
+    padding-bottom: 0;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  a {
+    color: inherit;
+  }
+}
+
+// Registrar deadlines and holidays are facts about the term, not warnings.
+.module > p.registrar,
+.module > p.holiday,
+.module > p.summary {
+  background: $sidebar-color;
+  border-left-color: $cal-quiet;
+  color: $cal-quiet;
+}
+
+.module > p.note,
+.module > p.tip,
+.module > p.further,
+.module > p.released {
+  background: $cal-first-wash;
+  border-left-color: $cal-first;
+  color: $cal-first;
+}
