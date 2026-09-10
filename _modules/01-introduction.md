@@ -3,7 +3,7 @@ title: "Week 1 / Introduction"
 ---
 
 Sep 9
-: **What is media?**
+: **What is media?** ([slides]({{ site.baseurl }}/slides/CMS100-slides-01.pdf))
 - No assigned reading
 - **ASSIGNED**{: .label .label-green } Syllabus quiz next class
 
