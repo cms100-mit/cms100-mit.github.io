@@ -12,3 +12,4 @@ Sep 16
 Sep 18
 : **Libraries, archives, and information retrieval**
 - Retrieval augmented generation, library classification schema, historical memory
+- **IN CLASS**{: .label .label-blue } **A1 Data collection protocol**
