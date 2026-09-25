@@ -3,7 +3,7 @@ title: "Week 2 / Information infrastructure"
 ---
 
 Sep 16
-: **Books and print culture**
+: **Books and print culture** ([slides](/slides/CMS100-keynote-03.pdf))
 - Ann Blair, "[Introduction](https://www.jstor.org/stable/j.ctt1nptsm.6?seq=1)" and "[Epilogue](https://www.jstor.org/stable/j.ctt1nptsm.12?seq=4)" in *Too Much to Know* (2010)
 	- How did people in early modern Europe collect and search for information?
 	- What is the history of "information overload?"
