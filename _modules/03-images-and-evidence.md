@@ -12,4 +12,3 @@ Sep 23
 Sep 25
 : **Images and the view from nowhere**
 	- Photography, objectivity, data visualization
-- **In class**{: .label .label-blue } **A1** Protocol pre-registration 
