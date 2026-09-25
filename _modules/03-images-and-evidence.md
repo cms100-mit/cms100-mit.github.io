@@ -8,7 +8,7 @@ Sep 23
 	- How are the three maps depicted in this case study similar?
     - How are they different?
 - **ASSIGNED**{: .label .label-green } **[A3.1](https://cms100-mit.github.io/assignments/A3/)** project pitches
-- **IN CLASS**{: .label .label-blue } **[A1](https://cms100-mit.github.io/assignments/A1/))** protocol registration
+- **IN CLASS**{: .label .label-blue } **[A1](https://cms100-mit.github.io/assignments/A1/)** [protocol registration](handouts/cms100-03-data_protocol.pdf)
 
 Sep 25
 : **Images and the view from nowhere**
