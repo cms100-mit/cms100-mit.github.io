@@ -11,6 +11,6 @@ Sep 30
 
 Oct 2
 : **The physical internet**
-- Data centers, internet cables, and global networks
-- The Digital Silk Road and Facebook's Free Basics
+- Data centers, internet cables, and global networks (e.g., Facebook's Free Basics, Belt & Road Initiative)
+- Media preservation and physical archives 
 - **Assigned**{: .label .label-green } **A3.1** presentation date 
