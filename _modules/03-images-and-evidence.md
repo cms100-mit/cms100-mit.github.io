@@ -3,7 +3,7 @@ title: "Week 3 / Images and evidence"
 ---
 
 Sep 23
-: **Maps, charts, and abstraction**
+: **Maps, charts, and abstraction** ([slides](https://docs.google.com/presentation/d/12lHHpQnjdIFxdVGzEiR4nSnhhfajOYKDhVBN8HwYkyg/edit?usp=sharing))
 - Catherine D'Ignazio and Lauren Klein, "[Who Collects the Data? A Tale of Three Maps](https://mit-serc.pubpub.org/pub/tale-of-three-maps/release/1)," MIT SERC case studies (2021) 
 	- How are the three maps depicted in this case study similar?
     - How are they different?
