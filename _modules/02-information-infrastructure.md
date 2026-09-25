@@ -12,4 +12,4 @@ Sep 16
 Sep 18
 : **Libraries, archives, and information retrieval**
 - Retrieval augmented generation, library classification schema, historical memory
-- **In class**{: .label .label-blue } **A1** [Protocol pre-registration](handouts/cms100-03-data_protocol.pdf)
+- **In class**{: .label .label-blue } **A1** [Protocol pre-registration](/handouts/cms100-03-data_protocol.pdf)
