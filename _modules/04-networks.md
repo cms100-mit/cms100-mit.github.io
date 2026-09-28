@@ -4,7 +4,7 @@ title: "Week 4 / Networks"
 
 Sep 30
 : **Broadcast telecommunications**
-- Gitelman and Mullaney, "[Nineteenth-Century Media Technologies](https://www-jstor-org.libproxy.mit.edu/stable/j.ctv1pdrrbs.15)," *Information: A Historical Companion* (2021)
+- Gitelman and Mullaney, "[Nineteenth-Century Media Technologies](https://www-jstor-org.libproxy.mit.edu/stable/j.ctv1pdrrbs.15)," *Information: A Historical Companion* (2021). For definitions of the key terms marked with asterisks, see the [glossary](https://www-jstor-org.libproxy.mit.edu/stable/j.ctv1pdrrbs.121).
     - How did the telegraph change the relationship between communication and transportation?
     - Do media technologies simply represent reality, or do they help construct it?
 - **IN CLASS**{: .label .label-blue } Receive feedback on **A1**
