@@ -8,12 +8,12 @@ Sep 30
     - How did the telegraph change the relationship between communication and transportation?
     - Do media technologies simply represent reality, or do they help construct it?
 - **IN CLASS**{: .label .label-blue } Receive feedback on **A1**
-- **IN CLASS**{: .label .label-blue } Assessing datasets
+- **IN CLASS**{: .label .label-blue } Assessing datasets ([handout](/handouts/cms100-A1_exemplars.pdf/))
 
 Oct 2
 : **The physical internet** ([slides](/slides/CMS100-keynote-07.pdf))
 - Data centers, internet cables, and global networks (e.g., Facebook's Free Basics, Belt & Road Initiative)
 - Media preservation and physical archives 
 - **IN CLASS**{: .label .label-blue } _The Undersea Network_ 
-- **IN CLASS**{: .label .label-blue } Visualization clinic
+- **IN CLASS**{: .label .label-blue } Visualization clinic ([handout](/handouts/cms100-A1_exemplars.pdf/))
 - **Assigned**{: .label .label-green } **A3.1** presentation date
