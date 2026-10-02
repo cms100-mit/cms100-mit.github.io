@@ -8,6 +8,10 @@ permalink: /assignments/A3/
 
 # Assignment 3: Media analysis project 
 
+In this paper, you will choose a media topic to systematically gather data about, code (categorize) that data in some way, visualize the data, and analyze your findings. (Note: it is now almost [impossible](https://www.prospectmagazine.co.uk/ideas/technology/63752/when-internet-becomes-unknowable-social-media-tools) to study most major social media platforms as they have all but banned academic research, so it's pretty difficult to impossible to scrape Twitter or Reddit, for example.) Instead of a platform, you can also analyze some media phenomenon. You can gather data about this phenomenon through any of the qualitative (interviews, observations), quantitative, or experimental methods that you’ve learned about this semester.
+
+Sample A papers from 2024: on [digital nomads](https://drive.google.com/file/d/1cwvgsd4Kw2KVT8S6sVb3pYpfqsECNcTa/view), on [BTS and fan culture](https://drive.google.com/file/d/1TjliFc6657E9ZiUFfRObafgkDj_UM0ns/view), and on [deepfakes](https://drive.google.com/file/d/18hElHfhi1ZKTj9OeGcuREi5Gre_41zI8/view).
+
 ## (A3.1) Project brainstorm (1 slide)
 
 {: .due }
