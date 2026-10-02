@@ -11,7 +11,7 @@ permalink: /assignments/A3/
 ## (A3.1) Project brainstorm (1 slide)
 
 {: .due }
-**Due: Oct 7 or 9 in class, add slide to shared deck (link TBD)** 
+**Due: Oct 7 or 9 in class, add slide to [shared deck](https://docs.google.com/presentation/d/1-GSNh8DFhmieMRI8YnbdXCM40OEoa8BYQWB4TRQLRUw/edit?usp=sharing)** 
 
 Add a slide to the shared deck with no more than 3 short ideas on what you would like to research for your final project (1–3 sentences per idea). Be prepared to speak for ~3 minutes and answer questions.
 
