@@ -16,4 +16,12 @@ This could be as grandiose or as mundane as you would like: it could be the temp
 
 Here is the [handout](/handouts/cms100-03-data_protocol.pdf) for the data collection protocol which will be completed in class. 
 
-Grading will be determined based on this [assessment sheet](/handouts/cms100-A1-assessment.pdf). 
+## How this will be graded 
+
+- A: Each choice in the dataset (e.g., what counts as data, what is excluded) is deliberate and well-explained. The work presents an argument that is supported by the data and the account of how the dataset is constructed is reflective and well-reasoned. The visualization makes an
+argument that the prose could not do alone.
+- B: The choices are sound and mostly explained; the claims are generally supported by the data. However, the reasoning is uneven and the write-up does not fully account for how the measurement instrument shaped the results or does not make a clear, complete argument.
+- C: The write-up asserts things the protocol could not have captured; construction of dataset is incomplete or is not fully explained or reflected upon in the write-up.
+- Below C: The dataset or write-up doesn’t follow the assignment instructions.
+
+You can see a longer explanation on this [assessment sheet](/handouts/cms100-A1-assessment.pdf). This is *not* a rubric, but a set of guidelines to help guide your writing. 
