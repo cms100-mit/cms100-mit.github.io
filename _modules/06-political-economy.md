@@ -7,7 +7,6 @@ Oct 14
 - Janet Vertesi, "[Data Free Disney](https://www.publicbooks.org/data-free-disney/)," *Public Books* (2023) 
 	- Is privacy possible?
 	- What tradeoffs are you willing or unwilling to make for digital services?
-- **In class**{: .label .label-blue } Draft project proposal
 
 Oct 16
 : **The attention economy**
