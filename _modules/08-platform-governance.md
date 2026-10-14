@@ -12,6 +12,7 @@ Oct 30
 : **Regulating content**
 - FCC regulation, deregulation, and Section 230
 - Vertical integration
+- - **In class**{: .label .label-blue } Draft project proposal
 
 {: .important }
 **Research progress meetings open Oct 28.** Sign up for a 30-minute slot between Oct 28 and Nov 6 (link TBD). 
