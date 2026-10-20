@@ -12,4 +12,4 @@ Oct 23
 : **Fandoms and forums**
 - Design and governance of fan fiction
 - K-pop fandoms and political advocacy
-- **Due**{: .label .label-red }**A3.2** Project proposal and annotated bibliography (9 am, submit on Canvas) 
+- In class{: .label .label-blue } Draft project proposal
