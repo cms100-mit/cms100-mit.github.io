@@ -12,6 +12,7 @@ Oct 30
 : **Regulating content**
 - FCC regulation, deregulation, and Section 230
 - Vertical integration
-- Due{: .label .label-red }A3.2 Project proposal and annotated bibliography (9 am, submit on Canvas)
+- - **DUE**{: .label .label-red } A3.2 Project proposal and annotated bibliography (9 am, submit on Canvas)
 {: .important }
+
 **Research progress meetings open Oct 28.** Sign up for a 30-minute slot between Oct 28 and Nov 6 (link TBD). 
