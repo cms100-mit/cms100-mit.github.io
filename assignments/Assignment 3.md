@@ -22,7 +22,7 @@ Add a slide to the shared deck with no more than 3 short ideas on what you would
 ## (A3.2) Project proposal and annotated bibliography (1000 words)
 
 {: .due }
-**Due: 9 am on Oct 23 → submit to [Canvas](https://canvas.mit.edu/courses/40342).**
+**Due: 9 am on Oct 30 → submit to [Canvas](https://canvas.mit.edu/courses/40342).**
 
 **Project proposal (600 words)**
 * _Introduce the object of study (phenomenon, controversy, system, etc)._ What is it? Why does it matter? Why should you (or we) care?
