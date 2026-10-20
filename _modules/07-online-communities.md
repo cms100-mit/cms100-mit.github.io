@@ -12,4 +12,4 @@ Oct 23
 : **Fandoms and forums**
 - Design and governance of fan fiction
 - K-pop fandoms and political advocacy
-- In class{: .label .label-blue } Draft project proposal
+- **IN CLASS**{: .label .label-blue } Draft project proposal
