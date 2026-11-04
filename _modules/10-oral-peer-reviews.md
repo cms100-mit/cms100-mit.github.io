@@ -11,4 +11,4 @@ Nov 13
 - **Due**{: .label .label-red } **A3.5** Oral peer review (draft of video or PechaKucha). Verbal critiques.
 
 {: .important }
-**Midterm oral exams run Nov 9–17.** Sign up for a 30-minute slot; your one-page handout is due online 24 hours before your slot.
+**Midterm oral exams run Nov 19–20.** [Sign up](https://calendly.com/d/d2q8-f4c-hhy/oral-midterm?month=2026-11&date=2026-11-19) for a 30-minute slot; your one-page handout is due online 24 hours before your slot.
