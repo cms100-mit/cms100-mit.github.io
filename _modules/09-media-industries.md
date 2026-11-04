@@ -13,4 +13,3 @@ Nov 6
 - Ethan Zuckerman, "[The Case for Digital Public Infrastructure](https://knightcolumbia.org/content/the-case-for-digital-public-infrastructure)" (2020)
     - What problem is digital public infrastructure trying to solve?
     - What challenges could make digital public infrastructure difficult to create or maintain?
-- **Due**{: .label .label-red } **A3.3** Last day for meetings
