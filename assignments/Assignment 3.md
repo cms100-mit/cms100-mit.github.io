@@ -34,7 +34,7 @@ Add a slide to the shared deck with no more than 3 short ideas on what you would
 ## (A3.3) Research progress meeting (30 min)
 
 {: .due }
-**Due: Sign up for an optional slot [here](https://calendly.com/d/dwqz-h49-jx8/research-progress-meeting).**
+**Due: Sign up for an optional slot [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1CG2fxfpiElqV_6zc2hu4iDCZFNnf1gAF-N-sNcGp-n_vfeu9Bu_TDvA8nddfrp0c1PcQCR5o5).**
 
 Between weeks 8 and 9, sign up for a progress meeting with me online. We will discuss your project proposal, annotated bibliography, and how the themes or readings in class relate to your final project.
 
