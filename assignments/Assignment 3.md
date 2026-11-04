@@ -34,7 +34,7 @@ Add a slide to the shared deck with no more than 3 short ideas on what you would
 ## (A3.3) Research progress meeting (30 min)
 
 {: .due }
-**Due: Sign up for a slot between Oct 28–Nov 6 (booking link TBD).**
+**Due: Sign up for an optional slot [here](https://calendly.com/d/dt89-vcv-w85/research-progress-meeting?month=2026-11).**
 
 Between weeks 8 and 9, sign up for a progress meeting with me online. We will discuss your project proposal, annotated bibliography, and how the themes or readings in class relate to your final project.
 
