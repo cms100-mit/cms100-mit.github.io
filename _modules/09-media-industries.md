@@ -3,9 +3,9 @@ title: "Week 9 / Media industries"
 ---
 
 Nov 4
-: **Journalism and the press**
-- Professional norms of "objectivity" and muckraking
-- The local news crisis
+: **Media and elections**
+- Visual tropes of election campaigning 
+- Writing lab
 - **Assigned**{: .label .label-green } **A3.5** Oral peer review presentation date. 
 
 Nov 6
