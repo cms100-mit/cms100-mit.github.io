@@ -9,7 +9,7 @@ permalink: /assignments/A2/
 # Assignment 2: Midterm oral exam
 
 {: .due }
-**Due: Sign up for slot between Nov 9–17. Booking link TBD.** 
+**Due: Sign up for slot between Nov 19–20. Booking link [here](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2n5wrgoNohFLssiXvOSqgnGhkVXe0GoM0T5UfQvlOU7vp61seI8zszGhy-Thh0i4x5Xr7obf69).** If these times do not work for you, please email me. 
 
 This midterm oral exam is intended to be a collegial conversation between the instructor and student about the course themes and readings. At least 24 hours before the exam, you will submit a **1 page handout** online (please also bring a hard copy to the exam). This handout should include:
 
