@@ -15,4 +15,4 @@ Oct 30
 - **DUE**{: .label .label-red } A3.2 Project proposal and annotated bibliography (9 am, submit on Canvas)
 {: .important }
 
-**Research progress meetings open Oct 28.** Sign up for a 30-minute slot between Oct 28 and Nov 6 (link TBD). 
+**Research progress meetings now optional.** If you would like to meet, please book [here](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1CG2fxfpiElqV_6zc2hu4iDCZFNnf1gAF-N-sNcGp-n_vfeu9Bu_TDvA8nddfrp0c1PcQCR5o5). 
