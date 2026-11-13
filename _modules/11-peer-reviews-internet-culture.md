@@ -3,8 +3,8 @@ title: "Week 11 / Peer reviews (cont'd) and internet culture"
 ---
 
 Nov 18
-: **Oral peer reviews, part 2**
-- **Due**{: .label .label-red } **A3.5** Oral peer review (cont'd)
+: **MIT through the ages**
+- **In class**{: .label .label-blue } [MIT: Progressions](https://www.youtube.com/watch?v=p3mq5E0GwLA) (1969); [rocks, bands, logic](https://vimeo.com/34649098?fl=pl&fe=vl) (2012), [#ThisIsMIT](https://www.youtube.com/watch?v=cGRySvjbFXU) (2018)
 
 Nov 20
 : **Memes and virality**
