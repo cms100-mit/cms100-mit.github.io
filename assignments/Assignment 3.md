@@ -48,9 +48,9 @@ Submit the written first draft of your final project.
 ## (A3.5) Peer review (oral) 
 
 {: .due }
-**Due: in class on Nov 13 or 18 (date assigned in advance)**
+**Due: in class on Nov 13 or 18**
 
-In class, you will present the first draft of the oral portions of the final assignment. If you are doing the video draft, then you should have no more than ~4.5 min of footage; if you are doing PechaKucha, you should be able to cover ~5 min of material). In addition to presenting your own work, you will be assigned to critique 2 of your colleagues’ work verbally after they finish their presentations. What does their project do well? What could be improved?
+Read and comment on each other's drafts in class. 
 
 ## (A3.6) Two peer review memos (written, 350 words each)
 
