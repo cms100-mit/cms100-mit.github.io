@@ -3,7 +3,7 @@ title: "Week 11 / Peer reviews (cont'd) and internet culture"
 ---
 
 Nov 18
-:: **Finishing peer reviews**
+: **Finishing peer reviews**
 - **Due**{: .label .label-red } Oral peer reviews (continued)
 
 Nov 20
